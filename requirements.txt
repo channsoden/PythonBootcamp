@@ -1,3 +1,5 @@
 # These will be installed to the python 2 environment
 numpy
 matplotlib
+pandas
+scipy
